@@ -1,0 +1,10 @@
+C:\Users\Administrator\Videos\HypePresence\HypePresence\bin\Release\HypePresence.exe.config
+C:\Users\Administrator\Videos\HypePresence\HypePresence\bin\Release\HypePresence.exe
+C:\Users\Administrator\Videos\HypePresence\HypePresence\bin\Release\HypePresence.pdb
+C:\Users\Administrator\Videos\HypePresence\HypePresence\obj\Release\HypePresence.csprojAssemblyReference.cache
+C:\Users\Administrator\Videos\HypePresence\HypePresence\obj\Release\HypePresence.Form1.resources
+C:\Users\Administrator\Videos\HypePresence\HypePresence\obj\Release\HypePresence.Properties.Resources.resources
+C:\Users\Administrator\Videos\HypePresence\HypePresence\obj\Release\HypePresence.csproj.GenerateResource.cache
+C:\Users\Administrator\Videos\HypePresence\HypePresence\obj\Release\HypePresence.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Videos\HypePresence\HypePresence\obj\Release\HypePresence.exe
+C:\Users\Administrator\Videos\HypePresence\HypePresence\obj\Release\HypePresence.pdb
